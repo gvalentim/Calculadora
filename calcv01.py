@@ -92,4 +92,5 @@ b17= Button(frame_corpo, command= lambda : entrar_valores('.'),text=',', width=5
 b17.place(x=123, y=213)
 b18= Button(frame_corpo, command= calcular, text='=', width=7, height=2, bg=cor2, fg=cor3, font=('Ivy 13 bold'), relief= RAISED, overrelief=RIDGE)
 b18.place(x=188, y=213)
+
 janela.mainloop()
