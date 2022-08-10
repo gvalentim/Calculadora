@@ -1,1 +1,1 @@
-# tal-uma-octoaventura-autom-tica
+# Calculadora simples em python
